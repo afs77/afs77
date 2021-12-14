@@ -1,4 +1,4 @@
-👋 Hi, I’m Amanda Fanelli
+:us: 👋 Hi, I’m Amanda Fanelli
 - I'm a biochemical engineer and Ph.D. in biotechnology from the University of São Paulo, Brazil. 
 - Here I share some DataViz projects and also tutorials about R for biotechnology.
 - You can reach me on twitter @amandafanelli and instagram @phd_amandafanelli(:brazil:)
